@@ -1,0 +1,19 @@
+---
+title: "Midlands Decision Support Network"
+image: "mdsn_logo.png"
+links:
+  - label: MDSN Publications
+    url: "https://www.strategyunitwm.nhs.uk/our-work?f%5B0%5D=topic%3A297"
+  - label: Midlands Analyst Network
+    url: "https://www.strategyunitwm.nhs.uk/publications/midlands-analyst-network-and-huddles"
+output:
+  postcards::jolla
+---
+ 
+This site has now been moved. 
+
+You can find all the fantastic work we have done over at the Strategy Unit site. 
+
+Please use the links below to reach our amazing content. 
+
+If you have any further questions or issues, please contact us at [strategy.unit@nhs.net](mailto:strategy.unit@nhs.net)
